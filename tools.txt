@@ -1,0 +1,7 @@
+QRadar
+
+QRadar Offense tracker - Script to track and update offense statuses.
+QRadar DSM parser - Parse DSM configuration files to validate syntax.
+QRadar Rule generator - Generate QRadar rules from templates.
+QRadar Log source creator - Automatically create log sources.
+QRadar Reference set updater - Script to update reference sets from external data.
